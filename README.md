@@ -1,4 +1,4 @@
-# Project Summary: PineCount Pro - Automated Pineapple Detection and Counting in Agriculture
+# Project Summary: PineCount Pro - Automated Pineapple Detection and Counting in Agriculture 🍍
 
 As the project lead for "PineCount Pro," I spearheaded an innovative endeavor in the field of precision agriculture. Our project focused on automating the detection and counting of pineapples in extensive crop fields, with the aim of enhancing agricultural management and increasing production efficiency. Some notable aspects of my contribution include:
 
