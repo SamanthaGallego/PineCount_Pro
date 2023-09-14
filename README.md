@@ -14,4 +14,4 @@ I led an additional proof-of-concept involving the application of our system to 
 This project was conducted in collaboration with a three-person team, and my leadership played a pivotal role in the overall project's success. This experience has allowed me to develop strong skills in computer vision, machine learning, and technology project management.
 
 Now, we present some of our results in the form of images, along with a direct link to the test video we conducted. We're excited to visually showcase how PineCount Pro is revolutionizing pineapple detection and counting in agriculture. Explore the images for a detailed view and follow the link to dive into our video test. Enjoy this experience that will change your perspective on agriculture! 📷🎥
-![Results 1](https://drive.google.com/file/d/19FP44p_zRm-9NShma1z8dfmUA8GOhB-n/view?usp=drive_link)
+![Results 1](results.png)
